@@ -5,7 +5,7 @@ LIC_FILES_CHKSUM = "file://${COMMON_LICENSE_DIR}/MIT;md5=0835ade698e0bcf8506ecda
 SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-diferrans1;protocol=ssh;branch=main"
 
 PV = "1.0+git${SRCPV}"
-SRCREV = "ca86118948ce680b77dad1e118ec4783f78a2041"
+SRCREV = "95bfb33b008bd2b4894d32d95860c9e07f2b7e11"
 
 # Build from the server subdirectory of the assignments repo
 S = "${WORKDIR}/git/server"
